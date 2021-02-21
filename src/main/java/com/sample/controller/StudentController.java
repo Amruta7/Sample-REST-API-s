@@ -1,7 +1,7 @@
 package com.sample.controller;
 
-import com.sample.controller.entity.Student;
-import com.sample.controller.service.StudentService;
+import com.sample.entity.Student;
+import com.sample.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.DeleteMapping;

@@ -1,6 +1,6 @@
-package com.sample.controller.service;
+package com.sample.service;
 
-import com.sample.controller.entity.Student;
+import com.sample.entity.Student;
 
 import java.util.List;
 

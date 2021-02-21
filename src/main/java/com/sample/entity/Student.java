@@ -1,4 +1,4 @@
-package com.sample.controller.entity;
+package com.sample.entity;
 
 import lombok.Data;
 
